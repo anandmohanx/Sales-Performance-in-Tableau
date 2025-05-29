@@ -1,4 +1,4 @@
-🚀 Sales Performance Dashboard | Tableau Portfolio Project
+##🚀 Sales Performance Dashboard | Tableau Portfolio Project
 
 📍 An interactive and insightful dashboard to analyse regional sales performance — built using Tableau.
 
